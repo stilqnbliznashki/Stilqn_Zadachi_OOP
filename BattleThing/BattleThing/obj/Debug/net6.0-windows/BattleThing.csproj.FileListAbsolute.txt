@@ -1,0 +1,17 @@
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\bin\Debug\net6.0-windows\BattleThing.exe
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\bin\Debug\net6.0-windows\BattleThing.deps.json
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\bin\Debug\net6.0-windows\BattleThing.runtimeconfig.json
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\bin\Debug\net6.0-windows\BattleThing.dll
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\bin\Debug\net6.0-windows\BattleThing.pdb
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.csproj.GenerateResource.cache
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.AssemblyInfoInputs.cache
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.AssemblyInfo.cs
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.csproj.CoreCompileInputs.cache
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.dll
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\refint\BattleThing.dll
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.pdb
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.genruntimeconfig.cache
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\ref\BattleThing.dll
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.Properties.Resources.resources
+C:\Users\stilq\OneDrive\Desktop\VS\ConsoleApps\C#\BattleThing\BattleThing\obj\Debug\net6.0-windows\BattleThing.BattleThing.resources
